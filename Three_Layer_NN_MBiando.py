@@ -2,7 +2,8 @@
 Author: Marnie Biando
 Filename: breast_cancer_classification.py
 
-Note: uses the three_layer_NN which does not work in virtualenv
+Note: uses the three_layer_NN which does not work in virtualenv;
+need to run this code outside of virtual environment
 
 """
 
@@ -262,7 +263,6 @@ def main():
     plt.xlabel('x1')
     plt.show()
 
-    means = []
     hidden_units = 100
     act = "sigmoid"
 #    act = "reLU"

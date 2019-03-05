@@ -5,8 +5,7 @@ Filename: Deep_NN_MBiando.py
 Code submitted for Neural Networks Class, Project #1
 Build Deep Neural Net from Three-Layer Neural Net
 
-Note: uses the three_layer_NN which does not work in any virtualenv
-NOT SURE WHY
+Note: uses the three_layer_NN code which does not work in virtualenv
 
 """
 
